@@ -6,7 +6,7 @@ st.set_page_config(page_title='Hello')
 with st.sidebar:
     st.write("Main Page")
 
-st.write("# Welcome to Streamlit! 👋")
+st.write("# Welcome to Streamlit!! 👋")
  
 
 
